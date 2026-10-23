@@ -1,0 +1,19 @@
+{
+  ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "book.css": "57e1f8288ac5e2d4b96b7de5e2fbd5d019804bbb59a6dcbc9df59001abf19f94",
+  "composition.js": "a1ae74c11c9522e65ef3f607787fc927aadc43305ab254990949eed4bfbfd570",
+  "github-data.js": "fdd5bd33d00911d207bd362e9d43f4dfb58d99eb1b3135740572fbd6c0f0a78e",
+  "index.html": "79dc900aa9b80b39e8bed43c80f4a522172fb9b77047e2e768936baf6c8301d0",
+  "reader.css": "df1168508308334a9e051cb8d0af9a2faf3f0f514472fe5491ed66212aa713b8",
+  "reader.js": "3956beb3749b221048d2e5593f88bedf7ab9ca55e249bcb51ad24f4fb862495e",
+  "renderer.js": "dfd5431616118c06eacddef6273071c02066aeccc20a62e5e97a8689a10e0522",
+  "fonts/sans-sc-OFL.txt": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+  "fonts/sans-sc.woff2": "cb8598828083c1edeb2c3fb0533163f4fedd42495eddcff60bbe43699d4c7573",
+  "fonts/serif-jp-OFL.txt": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6",
+  "fonts/serif-jp.woff2": "f1bad9bd0f2fe0ae940cb99adb2b2cd5e15bb658889871077b14d79d67142703",
+  "fonts/serif-latin-italic.woff2": "ca3b17ed1e3e668ffd9e03385cfd46e1b095df783de53710d25d41241496026b",
+  "fonts/serif-latin.woff2": "6b053e98f0838afe81f3e784727be4583a7c13bb42f198dc5202ecffee0aaee0",
+  "fonts/serif-sc-OFL.txt": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6",
+  "fonts/serif-sc.woff2": "3daaa792ae4a170378a048ea698a88c393d523e06f4e33a1337832b520186686",
+  "fonts/SourceSerif4-LICENSE.txt": "c21d7293d87b6d7ab1d0229a2f55b77f33a7613a6a4e66f6693d68d7d8d09464"
+}
