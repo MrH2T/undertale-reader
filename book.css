@@ -1,8 +1,8 @@
 @font-face{font-family:"Book Serif Latin";src:url("./fonts/serif-latin.woff2") format("woff2");font-style:normal;font-weight:400;font-display:block}
 @font-face{font-family:"Book Serif Latin";src:url("./fonts/serif-latin-italic.woff2") format("woff2");font-style:italic;font-weight:400;font-display:block}
-@font-face{font-family:"Book Serif SC";src:url('./fonts/serif-sc.woff2') format('woff2');font-style:normal;font-weight:200 900;font-display:block}
-@font-face{font-family:"Book Sans SC";src:url('./fonts/sans-sc.woff2') format('woff2');font-style:normal;font-weight:100 900;font-display:block}
-@font-face{font-family:"Book Serif JP";src:url('./fonts/serif-jp.woff2') format('woff2');font-style:normal;font-weight:200 900;font-display:block}
+@font-face{font-family:"Book Serif SC";src:url('./fonts/web-serif-sc.woff2?v=014bfa2cf122') format('woff2');font-style:normal;font-weight:200 900;font-display:block}
+@font-face{font-family:"Book Sans SC";src:url('./fonts/web-sans-sc.woff2?v=81dce3089532') format('woff2');font-style:normal;font-weight:100 900;font-display:block}
+@font-face{font-family:"Book Serif JP";src:url('./fonts/web-serif-jp.woff2?v=b8727a1a6fbe') format('woff2');font-style:normal;font-weight:200 900;font-display:block}
 *{box-sizing:border-box}
 :root{font:14px Arial,"Microsoft YaHei",sans-serif;color:#111;background:#fff;color-scheme:light}
 body{margin:0;height:100vh;height:100dvh;display:flex;flex-direction:column;overflow:hidden}
